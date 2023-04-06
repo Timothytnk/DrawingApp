@@ -13,4 +13,7 @@ You can also specify the Brush style to use for drawing the figures and so far t
 ![image](https://user-images.githubusercontent.com/56290548/230440131-1c33caa0-8c9e-4915-979a-0877469ed38a.png)
 An example of a free hand drawing made using the Cross brush type is shown below.
 ![image](https://user-images.githubusercontent.com/56290548/230440365-ba5349ad-57fc-4bf5-80de-30cea8358bc8.png)
+An example of a free hand drawing made using the Checkerboard brush type is shown below.
+![image](https://user-images.githubusercontent.com/56290548/230441278-c60563bc-4d5b-45ce-a51c-fb47acd356a3.png)
+
 
