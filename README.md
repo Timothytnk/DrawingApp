@@ -7,7 +7,6 @@ at the bottom of the stack to the one at the top and draws them on the panel. Th
 You can draw rectangle and fill with a color of your choice as shown in the screenshots below.
 ![image](https://user-images.githubusercontent.com/56290548/230437908-da5c86ca-4391-4bd6-a991-55b00e912928.png)
 ![image](https://user-images.githubusercontent.com/56290548/230437964-bdb55b70-845f-4730-afcc-2bd75face32d.png)
-![image](https://user-images.githubusercontent.com/56290548/230438046-dead791f-2619-4b99-a574-b0e92a47392a.png)
 ![image](https://user-images.githubusercontent.com/56290548/230438147-304f43c6-1f9a-4825-a920-980757f28efd.png)
 ![image](https://user-images.githubusercontent.com/56290548/230438207-8ffb54ee-4b75-4838-b709-5260c81fb6a5.png)
 
