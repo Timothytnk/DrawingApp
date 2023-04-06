@@ -9,7 +9,7 @@ You can draw rectangle and fill with a color of your choice as shown in the scre
 ![image](https://user-images.githubusercontent.com/56290548/230437964-bdb55b70-845f-4730-afcc-2bd75face32d.png)
 ![image](https://user-images.githubusercontent.com/56290548/230438147-304f43c6-1f9a-4825-a920-980757f28efd.png)
 ![image](https://user-images.githubusercontent.com/56290548/230438207-8ffb54ee-4b75-4838-b709-5260c81fb6a5.png)
-You can also specify the Brush style to use for drawing the figures and so far the program supports Brick, Backward Diagonal, Plaid, Cross, Checker Board, Diamond, Sphere and Wave. The screenshot below shows all of them in a glance.
+You can also specify the Brush style to use for drawing the figures and so far the program supports Brick, Backward Diagonal, Plaid, Cross, Checker Board, Diamond, Sphere and Wave. The screenshot below shows all of them at a glance.
 ![image](https://user-images.githubusercontent.com/56290548/230440131-1c33caa0-8c9e-4915-979a-0877469ed38a.png)
 An example of a free hand drawing made using the Cross brush type is shown below.
 ![image](https://user-images.githubusercontent.com/56290548/230440365-ba5349ad-57fc-4bf5-80de-30cea8358bc8.png)
