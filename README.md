@@ -16,4 +16,9 @@ An example of a free hand drawing made using the Cross brush type is shown below
 An example of a free hand drawing made using the Checkerboard brush type is shown below.
 ![image](https://user-images.githubusercontent.com/56290548/230441278-c60563bc-4d5b-45ce-a51c-fb47acd356a3.png)
 
+You can also draw polygons and fill them with a fill color of choice, check the screenshow below for more details.
+
+![image](https://user-images.githubusercontent.com/56290548/230587962-fe9d49c6-ff4f-4a1e-abe4-b392ee6225b7.png)
+
+
 
