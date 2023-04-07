@@ -19,6 +19,6 @@ An example of a free hand drawing made using the Checkerboard brush type is show
 You can also draw polygons and fill them with a fill color of choice, check the screenshow below for more details.
 
 ![image](https://user-images.githubusercontent.com/56290548/230587962-fe9d49c6-ff4f-4a1e-abe4-b392ee6225b7.png)
-
-
+You can also draw an array of infinitely connected lines, after marking the points on the panel then you hit the Connect button to draw lines connecting all of those points.
+![image](https://user-images.githubusercontent.com/56290548/230591924-0cf7d09a-0cb0-4bad-ba7c-f36e12b56c04.png)
 
